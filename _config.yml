@@ -1,3 +1,4 @@
+layout_spectrum: 0.7928527523763478
 typography_spectrum: 0.09041325375437737
 color:
   brandStrength: 0.2802297866437584
@@ -5,12 +6,9 @@ color:
   saturation: 0.802076757652685
   rhythmicContrast: 0.34138381481170654
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-layout_spectrum: 0.7928527523763478
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Enclave Organics
-title: ''
-description: Biodynamic Organic
